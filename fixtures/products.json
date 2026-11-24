@@ -1,0 +1,171 @@
+[
+  {
+    "id": "big-mac",
+    "name": "Big Mac®",
+    "price": 39,
+    "cat": "Hamburguesas",
+    "desc": "Doble carne, lechuga, queso, pepinillos y salsa especial."
+  },
+  {
+    "id": "cuarto",
+    "name": "Cuarto de Libra®",
+    "price": 37,
+    "cat": "Hamburguesas",
+    "desc": "Carne de res, queso cheddar, cebolla y pepinillos."
+  },
+  {
+    "id": "mcpollo",
+    "name": "McPollo®",
+    "price": 34,
+    "cat": "Hamburguesas",
+    "desc": "Pollo crujiente, lechuga y mayonesa."
+  },
+  {
+    "id": "happy-meal",
+    "name": "Happy Meal®",
+    "price": 28,
+    "cat": "Happy Meal",
+    "desc": "Hamburguesa, bebida y acompañamiento."
+  },
+  {
+    "id": "combo-clasico",
+    "name": "Combo Clásico",
+    "price": 52,
+    "cat": "Combos",
+    "desc": "Hamburguesa, papas y bebida mediana."
+  },
+  {
+    "id": "doble-cuarto",
+    "name": "Doble Cuarto de Libra®",
+    "price": 49,
+    "cat": "Hamburguesas",
+    "desc": "Doble carne, queso cheddar y pepinillos."
+  },
+  {
+    "id": "papas-grandes",
+    "name": "Papas Grandes",
+    "price": 18,
+    "cat": "Papas",
+    "desc": "Doradas y crujientes."
+  },
+  {
+    "id": "clasica",
+    "name": "Hamburguesa Clásica",
+    "price": 28,
+    "cat": "Hamburguesas",
+    "desc": "Carne, lechuga y tomate."
+  },
+  {
+    "id": "papas",
+    "name": "Papas Doradas",
+    "price": 14,
+    "cat": "Papas",
+    "desc": "Porción individual."
+  },
+  {
+    "id": "combo-familiar",
+    "name": "Combo Familiar",
+    "price": 58,
+    "cat": "Combos",
+    "desc": "Dos hamburguesas y acompañamientos."
+  },
+  {
+    "id": "soda",
+    "name": "Bebida mediana",
+    "price": 10,
+    "cat": "Bebidas",
+    "desc": "Refresco frío."
+  },
+  {
+    "id": "soda-grande",
+    "name": "Bebida grande",
+    "price": 14,
+    "cat": "Bebidas",
+    "desc": "Refresco frío grande."
+  },
+  {
+    "id": "pizza-clasica",
+    "name": "Pizza Clásica",
+    "price": 49,
+    "cat": "Pizzas",
+    "desc": "Mozzarella, tomate y pepperoni."
+  },
+  {
+    "id": "pizza-pollo",
+    "name": "Pizza McPollo®",
+    "price": 52,
+    "cat": "Pizzas",
+    "desc": "Pollo, queso y champiñones."
+  },
+  {
+    "id": "pizza-suprema",
+    "name": "Pizza Suprema",
+    "price": 58,
+    "cat": "Pizzas",
+    "desc": "Pepperoni, pimientos y aceitunas."
+  },
+  {
+    "id": "nuggets",
+    "name": "Nuggets",
+    "price": 22,
+    "cat": "Acompañamientos",
+    "desc": "Pollo crujiente con salsa."
+  },
+  {
+    "id": "sundae",
+    "name": "Sundae",
+    "price": 16,
+    "cat": "Postres",
+    "desc": "Helado con chocolate."
+  },
+  {
+    "id": "tarta",
+    "name": "Tarta de manzana",
+    "price": 12,
+    "cat": "Postres",
+    "desc": "Relleno de manzana."
+  },
+  {
+    "id": "cheeseburger",
+    "name": "Cheeseburger",
+    "price": 23,
+    "cat": "Hamburguesas",
+    "desc": "Carne y queso."
+  },
+  {
+    "id": "pollo-picante",
+    "name": "Pollo picante",
+    "price": 36,
+    "cat": "Hamburguesas",
+    "desc": "Pollo crujiente con salsa picante."
+  },
+  {
+    "id": "mini",
+    "name": "Mini hamburguesa",
+    "price": 18,
+    "cat": "Hamburguesas",
+    "desc": "Una pequeña hamburguesa con queso."
+  },
+  {
+    "id": "combo-nuggets",
+    "name": "Combo Nuggets",
+    "price": 45,
+    "cat": "Combos",
+    "desc": "Nuggets, papas y bebida."
+  },
+  {
+    "id": "pizza-queso",
+    "name": "Pizza de queso",
+    "price": 45,
+    "cat": "Pizzas",
+    "desc": "Mozzarella y salsa de tomate."
+  },
+  {
+    "id": "pizza-combo",
+    "name": "Combo Pizza Familiar",
+    "price": 79,
+    "cat": "Promociones",
+    "desc": "Pizza grande, papas grandes y dos bebidas.",
+    "image": "pizza-clasica"
+  }
+]
